@@ -1,6 +1,5 @@
-### Hi there, I'm Jay 👋
+<h1 align="center">Hi 👋, I'm Jay Gandhi</h1>
 
-- 👋 Hi, I’m @iamjay17
 - I'm a Student, Developer!
 - 🌱 I’m currently pursuing BCA
 
