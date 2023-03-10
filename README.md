@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Gandhi</h1>
 
 - I'm a Student, Developer!
-- 🌱 I’m currently pursuing BCA
+- 📚 I’m currently pursuing BCA
 
 ### 📫 Connect with me:
 
