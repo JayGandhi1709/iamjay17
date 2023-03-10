@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @iamjay17
 - I'm a Student, Developer!
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently pursuing BCA
 
 ### 📫 Connect with me:
 
