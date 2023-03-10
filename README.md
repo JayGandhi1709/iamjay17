@@ -38,3 +38,46 @@
 iamjay17/iamjay17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Languages I Know
+Web Technology: 
+<p><code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<!--   <code><img height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code> -->
+<!--   <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code> -->
+     <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+     <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+</p>
+  
+  
+Mobile App Technology: 
+ <p><code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code></p>
+  
+Programming Language:
+  <p><code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  </p>
+  
+   
+Database Technology: 
+  <p><code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+</p>
+
+Others Technology:
+<p>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
+<!--     <code><img height="40" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code> -->
+<!--         <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code> -->
+<!--    <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code> -->
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<!--      <code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code> -->
+    </p>
