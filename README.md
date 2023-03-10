@@ -50,7 +50,7 @@ Others Technology:
 <p>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-    <code><img height="40" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
+<!--     <code><img height="40" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code> -->
 <!--     <code><img height="40" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code> -->
 <!--         <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code> -->
 <!--    <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code> -->
