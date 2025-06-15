@@ -3,7 +3,7 @@
 - I'm a Student, Developer! 👨‍💻
 - I’m currently pursuing MCA 📚
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jay143official?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JayGandhi17?theme=light)
 
 ### 📫 Connect with me:
 
